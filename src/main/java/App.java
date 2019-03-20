@@ -3,6 +3,7 @@
  */
 public class App {
     public String getGreeting() {
+        System.out.println("Sweeeeet");
         return "Hello world.";
     }
 
