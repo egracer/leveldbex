@@ -3,6 +3,7 @@
  */
 public class App {
     public String getGreeting() {
+        // A stellar comment per reviewer's request
         System.out.println("Sweeeeet");
         return "Hello world.";
     }
